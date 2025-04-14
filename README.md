@@ -1,15 +1,15 @@
-Pablo Moreno
-Computer Science & Data Science Student @ Rutgers University-Newark
-📫 Contact: pm896@rutgers.edu
+# **Pablo Moreno**  
+**Computer Science & Data Science Student** | **Rutgers University-Newark**  
+📫 **Contact:** **[pm896@rutgers.edu](mailto:pm896@rutgers.edu)**  
 
-Skills & Technologies
-Languages: Python, Java, JavaScript, C, R, Kotlin
-Web Development: React, CSS, Node.js, Express
-Data Science & ML: Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter
-Databases: PostgreSQL, MongoDB
-Tools: Git, VS Code, Linux, Postman
+### **Technical Skills**  
+**Languages:** **Python**, **Java**, **JavaScript**, **C**, **R**, **Kotlin**  
+**Web Development:** **React**, **Node.js**, **Express**, **HTML/CSS**  
+**Data Science:** **Pandas**, **NumPy**, **Matplotlib**, **Scikit-learn**, **Jupyter**  
+**Databases:** **PostgreSQL**, **MongoDB**  
+**Tools:** **Git**, **VS Code**, **Linux/Shell**, **Postman**  
 
-About Me
-I'm a student passionate about software development, data analysis, and building practical solutions. Currently exploring full-stack development and machine learning while working on academic and personal projects.
+### **About Me**  
+I'm a student passionate about software development, data analysis, and building practical solutions. Currently exploring full-stack development, backend development and data science while working on academic and personal projects, because why specialize when you can have existential crises about career paths?  
 
-🔗 GitHub: github.com/pablomoreno10
+🔗 **GitHub:** **[github.com/pablomoreno10](https://github.com/pablomoreno10)**  
