@@ -3,12 +3,11 @@
 📫 **Contact:** **[pm896@rutgers.edu](mailto:pm896@rutgers.edu)**  
 
 ### **Technical Skills**  
-**Languages:** **Python**, **Java**, **JavaScript**, **C**, **R**, **Kotlin**  
-**Cloud/DevOps:** **Ansible**, **Docker**, **Terraform**, **AWS**, **Networking & Cloud Infrastructure**
-**Web Development:** **React**, **Node.js**, **Express**, **HTML/CSS**  
+**Languages:** **Python**, **Java**, **JavaScript**, **C**, **R**  
+**Cloud/DevOps:** **Ansible**, **Docker**, **Terraform**, **AWS**, **Networking & Cloud Infrastructure** 
 **Data Science:** **Pandas**, **NumPy**, **Matplotlib**, **Scikit-learn**, **Jupyter**  
 **Databases:** **PostgreSQL**, **MongoDB**  
-**Tools:** **Git**, **VS Code**, **Linux/Shell**, **Postman**  
+**Tools:** **Git**, **RHEL**, **Shell**, **Postman**, ****
 
 ### **Experience**
 *Cloud Engineer Intern @ Samsung SDSA*
