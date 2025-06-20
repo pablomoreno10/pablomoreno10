@@ -4,7 +4,7 @@
 
 ### **Technical Skills**  
 **Languages:** **Python**, **Java**, **JavaScript**, **C**, **R**  
-**Cloud/DevOps:** **Ansible**, **Docker**, **Terraform**, **AWS**, **Networking & Cloud Infrastructure** 
+**Cloud/DevOps:** **Ansible**, **Docker**, **Terraform**, **AWS**, **Networking & Cloud Infrastructure**        
 **Data Science:** **Pandas**, **NumPy**, **Matplotlib**, **Scikit-learn**, **Jupyter**  
 **Databases:** **PostgreSQL**, **MongoDB**  
 **Tools:** **Git**, **RHEL**, **Shell**, **Postman**, ****
