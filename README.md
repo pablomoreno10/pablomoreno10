@@ -4,12 +4,21 @@
 
 ### **Technical Skills**  
 **Languages:** **Python**, **Java**, **JavaScript**, **C**, **R**, **Kotlin**  
+**Cloud/DevOps:** **Ansible**, **Docker**, **Terraform**, **AWS**, **Networking & Cloud Infrastructure**
 **Web Development:** **React**, **Node.js**, **Express**, **HTML/CSS**  
 **Data Science:** **Pandas**, **NumPy**, **Matplotlib**, **Scikit-learn**, **Jupyter**  
 **Databases:** **PostgreSQL**, **MongoDB**  
 **Tools:** **Git**, **VS Code**, **Linux/Shell**, **Postman**  
 
-### **About Me**  
-I'm a student passionate about software development, data analysis, and building practical solutions. Currently exploring full-stack development, backend development and data science while working on academic and personal projects, because why specialize when you can have existential crises about career paths?  
+### **Experience**
+*Cloud Engineer Intern @ Samsung SDSA*
 
-🔗 **GitHub:** **[github.com/pablomoreno10](https://github.com/pablomoreno10)**  
+  - Working in the clouds ☁️ (Infrastructure and automation).
+
+*AI/ML Fellow @ Cornell Tech*
+
+  - Working with AI and Machine Learning for data science. (Python)
+
+### **About Me**
+Building software, tinkering with data, and now engineering cloud solutions at Samsung SDS. Passionate about turning ideas into scalable, real-world systems.
+
