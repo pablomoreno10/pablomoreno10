@@ -7,7 +7,7 @@
 **Cloud/DevOps:** **Ansible**, **Docker**, **Terraform**, **AWS**, **Networking & Cloud Infrastructure**        
 **Data Science:** **Pandas**, **NumPy**, **Matplotlib**, **Scikit-learn**, **Jupyter**  
 **Databases:** **PostgreSQL**, **MongoDB**  
-**Tools:** **Git**, **RHEL**, **Shell**, **Postman**, ****
+**Tools:** **Git**, **RHEL**, **Shell**, **Postman**   
 
 ### **Experience**
 *Cloud Engineer Intern @ Samsung SDSA*
